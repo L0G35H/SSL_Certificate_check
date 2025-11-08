@@ -1,6 +1,6 @@
 # SSL_Certificate_check
 
-SSL Certificate Checker 🔐
+SSL Certificate Checker 
 
 This repository contains a simple Python script that checks whether a website’s SSL certificate is valid. It uses the requests library to send secure HTTPS requests and identifies sites with valid or invalid SSL configurations.
 
